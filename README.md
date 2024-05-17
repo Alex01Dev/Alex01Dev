@@ -1,16 +1,42 @@
-### Hi there 👋
+![Amauri coding](https://i.imgur.com/1ZvVkDc.gif)
+<h1 align="center">💫 About Me 💫</h1>
 
-<!--
-**Alex01Dev/Alex01Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="justify">Hola!, Soy Alex Amauri Márquez Canales, estudiante en TSU en Desarrollo de Software Multiplataforma, en mi perfil encontraras distintos proyectos que he realizado en mi universidad o por mi cuenta, mi principal enfoque es el **Desarrollo Web Backend**, tambien estoy familirizado con el desarrollo de aplicaciones moviles.</p>
 
-Here are some ideas to get you started:
+- **Desarrollo BackEnd (API REST)**
+- **Desarrollo Web FrontEnd con Frameworks**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">💻 Tech Stack 💻</h1>
+<div align="center">
+
+<div style="width: 250px; display: inline-block; text-align: left;">
+    <h3>Lenguajes</h3>
+    <!-- Front End -->
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
+  </div>
+<div style="width: 250px; display: inline-block; text-align: left;">
+    <h3>Front End</h3>
+    <!-- Front End -->
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Angular 17](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white&style=for-the-badge)  ![Angular HTTPClient](https://img.shields.io/badge/Angular_HTTPClient-%233D7E98.svg?style=for-the-badge&logo=angular&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Native](https://img.shields.io/badge/reactnative-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+  </div>
+  
+  <div style="width: 300px; display: inline-block; text-align: left;">
+    <h3>Back End</h3>
+    <!-- Back End -->
+
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?logo=express&logoColor=white&style=for-the-badge) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) [![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white&style=for-the-badge)](https://www.mongodb.com/) [![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/cloud/atlas) ![Sequelize](https://img.shields.io/badge/Sequelize-%236121A8.svg?style=for-the-badge&logo=sequelize&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+ 
+
+
+
+  </div>
+<div/>
+<div align="center" class="width:300px;">
+  <h3>Herramientas y otros<h3/>
+
+![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+<div/>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
