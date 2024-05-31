@@ -1,7 +1,7 @@
 ![Amauri coding](https://i.imgur.com/1ZvVkDc.gif)
 <h1 align="center">💫 About Me 💫</h1>
 
-<p align="justify">Hola!, Soy Alex Amauri Márquez Canales, estudiante en TSU en Desarrollo de Software Multiplataforma, en mi perfil encontraras distintos proyectos que he realizado en mi universidad o por mi cuenta, mi principal enfoque es el **Desarrollo Web Backend**, tambien estoy familirizado con el desarrollo de aplicaciones moviles.</p>
+<p align="justify">Hola!, Soy Alex Amauri Márquez Canales, estudiante en TSU en Desarrollo de Software Multiplataforma, en mi perfil encontraras distintos proyectos que he realizado en mi universidad o por mi cuenta, mi principal enfoque es el **Desarrollo Web Backend** , tambien estoy familiarizado con el desarrollo de aplicaciones moviles.</p>
 
 - **Desarrollo BackEnd (API REST)**
 - **Desarrollo Web FrontEnd con Frameworks**
