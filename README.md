@@ -1,7 +1,7 @@
 ![Amauri coding](https://i.imgur.com/1ZvVkDc.gif)
 <h1 align="center">💫 About Me 💫</h1>
 
-<p align="justify">Hola!, Soy Alex Amauri Márquez Canales, estudiante en TSU en Desarrollo de Software Multiplataforma, en mi perfil encontraras distintos proyectos que he realizado en mi universidad o por mi cuenta, mi principal enfoque es el **Desarrollo Web BackEnd** , tambien estoy familiarizado con el desarrollo de aplicaciones moviles.</p>
+<p align="justify">Hola!, Soy Alex Amauri Márquez Canales, estudiante en TSU en Desarrollo de Software Multiplataforma, en mi perfil encontraras distintos proyectos que he realizado en mi universidad o por mi cuenta, mi principal enfoque es el **Desarrollo de Aplicaciones Multiplataforma** , tambien estoy familiarizado con el desarrollo de aplicaciones moviles.</p>
 
 - **Desarrollo BackEnd (API REST)**
 - **Desarrollo Web FrontEnd con Frameworks**
@@ -30,7 +30,7 @@
     <h3>Back End</h3>
     <!-- Back End -->
 
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?logo=express&logoColor=white&style=for-the-badge) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) [![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white&style=for-the-badge)](https://www.mongodb.com/) [![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/cloud/atlas) ![Sequelize](https://img.shields.io/badge/Sequelize-%236121A8.svg?style=for-the-badge&logo=sequelize&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?logo=express&logoColor=white&style=for-the-badge) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) [![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white&style=for-the-badge)](https://www.mongodb.com/) [![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/cloud/atlas) ![Sequelize](https://img.shields.io/badge/Sequelize-%236121A8.svg?style=for-the-badge&logo=sequelize&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white) ![Selenium](https://img.shields.io/badge/selenium-6DA55F?style=for-the-badge&logo=selenium&logoColor=white)
 
 
  
